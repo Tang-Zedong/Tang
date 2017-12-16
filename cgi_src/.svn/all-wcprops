@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/robtrans2/!svn/ver/2562/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src
+END
+server_mips.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/server_mips.c
+END
+en_ch_mode2.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/2333/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/en_ch_mode2.c
+END
+getradiostatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robtrans2/!svn/ver/2396/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getradiostatus.c
+END
+mkimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robtrans2/!svn/ver/2465/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/mkimage.h
+END
+stachannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/stachannel.c
+END
+apcfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/robtrans2/!svn/ver/1463/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/apcfg.c
+END
+rootfsversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robtrans2/!svn/ver/2533/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/rootfsversion.c
+END
+modifyflag_reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/modifyflag_reset.c
+END
+en_ch_mode.tb.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/en_ch_mode.tb.c
+END
+tdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/tdma.c
+END
+uploadrootfs_11ac.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/robtrans2/!svn/ver/2492/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/uploadrootfs_11ac.c
+END
+arptable.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/arptable.c
+END
+getdhcprange.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getdhcprange.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robtrans2/!svn/ver/2558/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/Makefile
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/time.c
+END
+getif.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/robtrans2/!svn/ver/2551/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getif.c
+END
+statusinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/2303/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/statusinfo.c
+END
+pic2upload.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1436/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/pic2upload.c
+END
+getwirelessmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robtrans2/!svn/ver/1596/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getwirelessmode.c
+END
+uploadpic2.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1435/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/uploadpic2.c
+END
+stainfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/stainfo.c
+END
+statusinfo_11ac.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robtrans2/!svn/ver/2539/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/statusinfo_11ac.c
+END
+iperf_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/2298/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/iperf_test.c
+END
+linkquality.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/linkquality.c
+END
+companyname.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/companyname.c
+END
+raw_recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/robtrans2/!svn/ver/2521/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/raw_recv.c
+END
+channelwidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/channelwidth.c
+END
+txrx_11ac.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robtrans2/!svn/ver/2519/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/txrx_11ac.c
+END
+trim.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/trim.c
+END
+noisefloor.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/noisefloor.c
+END
+stainfo_bak.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/stainfo_bak.c
+END
+en_ch_mode.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/2334/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/en_ch_mode.c
+END
+getspectralstatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/robtrans2/!svn/ver/2558/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getspectralstatus.c
+END
+arptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/arptest.c
+END
+raw_massupdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robtrans2/!svn/ver/2465/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/raw_massupdate.h
+END
+brmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/brmac.c
+END
+getwirelessmode2.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/robtrans2/!svn/ver/2316/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getwirelessmode2.c
+END
+distance.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/distance.c
+END
+getnetworkstatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/robtrans2/!svn/ver/1643/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getnetworkstatus.c
+END
+signallevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/signallevel.c
+END
+checkfactory.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/checkfactory.c
+END
+iperf_show.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/iperf_show.c
+END
+iperflog.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/iperflog.c
+END
+apinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robtrans2/!svn/ver/2350/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/apinfo.c
+END
+raw_recv_11ac.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robtrans2/!svn/ver/2521/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/raw_recv_11ac.c
+END
+athstalist.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/athstalist.c
+END
+uploadpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robtrans2/!svn/ver/1445/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/uploadpic.c
+END
+uploadrootfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/robtrans2/!svn/ver/1548/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/uploadrootfs.c
+END
+showlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robtrans2/!svn/ver/1286/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/showlog.c
+END
+getacstatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1540/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getacstatus.c
+END
+searchssid.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/2402/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/searchssid.c
+END
+tdma_11ac.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robtrans2/!svn/ver/2365/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/tdma_11ac.c
+END
+uploadconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/2496/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/uploadconf.c
+END
+pingtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/pingtest.c
+END
+connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/connection.c
+END
+channellist_5g.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/channellist_5g.c
+END
+speedtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/speedtest.c
+END
+startscan.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robtrans2/!svn/ver/1655/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/startscan.c
+END
+getscanfreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/2548/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getscanfreq.c
+END
+channellist.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/channellist.c
+END
+txrx.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/robtrans2/!svn/ver/2244/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/txrx.c
+END
+routetable.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/routetable.c
+END
+client_mips.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/client_mips.c
+END
+aththroughput.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/aththroughput.c
+END
+timeinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/robtrans2/!svn/ver/1814/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/timeinfo.c
+END
+picupload.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robtrans2/!svn/ver/1436/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/picupload.c
+END
+modifyflag.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/modifyflag.c
+END
+makeubootimage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robtrans2/!svn/ver/1435/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/makeubootimage.sh
+END
+scanresult.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robtrans2/!svn/ver/1655/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/scanresult.c
+END
+getapcfgstatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robtrans2/!svn/ver/2562/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/getapcfgstatus.c
+END
+wanstatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/wanstatus.c
+END
+rateshow.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/robtrans2/!svn/ver/1255/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/rateshow.c
+END
+datacap.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robtrans2/!svn/ver/1674/svn/1_src/LSDK-9.5.5.36_with_toolchain/apps/cgi_src/datacap.c
+END
